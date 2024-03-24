@@ -1,0 +1,42 @@
+@font-face {
+    font-family: popins;
+    src: url(./assets/fonts/Poppins-Medium.ttf);
+}
+
+:root{
+    --primary-color :rgb(248, 20, 20);
+}
+
+body {background-image: url(./assets/image/flat-arabic-pattern-background_79603-1826.avif);}
+
+.tasbeeh-heading {text-align: center;margin-top: 20px;}
+
+.tasbe {font-weight: 900;font-size: 3em;}
+
+.bis {color: rgb(20, 20, 156);font-weight: 900;font-size: 3em;}
+
+marquee {font-size: 1.6em;font-weight: 700;color: #7c6a6a;font-family: popins;}
+
+.sub-card {text-align: center;}
+
+.sub-card img {height: 100vh;}
+
+.card {margin-top: 60px !important;text-align: center;background-image: url(./assets/image/flat-arabic-pattern-background_79603-1826.avif);box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; padding-bottom: 10px;}
+
+.card3 {margin-top: 54px !important;}
+
+.para , .sub-card {margin-top: 20px;}
+
+.heading h2 {color: var(--primary-color);font-weight: 800;}
+
+button {border-radius: 5px ;padding: 10px; border: 1px solid ;font-weight: 500; }
+
+.yellow {border:2px solid gold;background-color: gold;}
+
+.red {border:2px solid red;background-color: red;}
+
+span {font-size: 2em;font-weight: 500;text-align: center;}
+
+
+
+
